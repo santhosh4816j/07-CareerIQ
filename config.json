@@ -1,0 +1,30 @@
+{
+  "number": 7,
+  "name": "CareerIQ",
+  "description": "AI-style Resume & Job Matching",
+  "domain": "career",
+  "fields": [
+    "candidate",
+    "role",
+    "skills",
+    "experience",
+    "status"
+  ],
+  "seed": [
+    {
+      "candidate": "Asha",
+      "role": "Frontend Engineer",
+      "skills": "React,TypeScript,CSS",
+      "experience": "2",
+      "status": "Applied"
+    },
+    {
+      "candidate": "Ravi",
+      "role": "Backend Engineer",
+      "skills": "Java,SQL,Docker",
+      "experience": "3",
+      "status": "Interview"
+    }
+  ],
+  "port": 4107
+}
